@@ -3,42 +3,102 @@
     {
       "id": 1,
       "title": "Test Note",
-      "content": "This is a test note",
-      "priority": 2,
+      "content": "This is an updated test note with more details.",
+      "priority": 1,
       "createdAt": "2025-04-08T10:00:00.000Z",
-      "modifiedAt": "2025-04-08T10:00:00.000Z",
-      "tags": ["test", "example"],
-      "color": "#FF0000"
+      "modifiedAt": "2025-04-24T10:00:00.000Z",
+      "tags": ["updated", "example"],
+      "color": "#FF8800"
     },
     {
       "id": 2,
       "title": "Grocery List",
-      "content": "Buy milk, eggs, and bread from the store.",
+      "content": "Buy milk, eggs, bread, and some fruits.",
       "priority": 1,
       "createdAt": "2025-04-09T08:30:00.000Z",
-      "modifiedAt": "2025-04-09T08:30:00.000Z",
+      "modifiedAt": "2025-04-24T10:10:00.000Z",
       "tags": ["shopping", "urgent"],
-      "color": "#00FF00"
+      "color": "#00FF99"
     },
     {
       "id": 3,
       "title": "Meeting Notes",
-      "content": "Discuss project timeline and resource allocation with the team.",
+      "content": "Discuss project timeline and resource allocation with the team. Confirm deliverables.",
       "priority": 3,
       "createdAt": "2025-04-10T14:15:00.000Z",
-      "modifiedAt": "2025-04-10T14:15:00.000Z",
-      "tags": ["work", "meeting"],
-      "color": "#0000FF"
+      "modifiedAt": "2025-04-24T10:20:00.000Z",
+      "tags": ["work", "meeting", "project"],
+      "color": "#3366FF"
     },
     {
       "id": 4,
       "title": "Personal Reminder",
-      "content": "Call mom at 6 PM today.",
+      "content": "Call mom at 6 PM today. Ask about her health.",
       "priority": 2,
       "createdAt": "2025-04-11T09:00:00.000Z",
-      "modifiedAt": "2025-04-11T09:00:00.000Z",
-      "tags": ["personal"],
-      "color": "#FFFF00"
+      "modifiedAt": "2025-04-24T10:30:00.000Z",
+      "tags": ["personal", "family"],
+      "color": "#FFFFAA"
+    },
+    {
+      "id": 5,
+      "title": "Workout Plan",
+      "content": "Complete 30 minutes of cardio and 15 minutes of strength training.",
+      "priority": 2,
+      "createdAt": "2025-04-24T10:00:00.000Z",
+      "modifiedAt": "2025-04-24T10:00:00.000Z",
+      "tags": ["health", "fitness"],
+      "color": "#FF33CC"
+    },
+    {
+      "id": 6,
+      "title": "Travel Checklist",
+      "content": "Pack clothes, toiletries, and electronics for the trip.",
+      "priority": 2,
+      "createdAt": "2025-04-24T10:05:00.000Z",
+      "modifiedAt": "2025-04-24T10:05:00.000Z",
+      "tags": ["travel", "checklist"],
+      "color": "#00AAFF"
+    },
+    {
+      "id": 7,
+      "title": "Birthday Gift Ideas",
+      "content": "Research gift options for Alex's birthday.",
+      "priority": 3,
+      "createdAt": "2025-04-24T10:10:00.000Z",
+      "modifiedAt": "2025-04-24T10:10:00.000Z",
+      "tags": ["personal", "birthday"],
+      "color": "#FFDD99"
+    },
+    {
+      "id": 8,
+      "title": "Study Schedule",
+      "content": "Review chapters 3 and 4 of the textbook.",
+      "priority": 1,
+      "createdAt": "2025-04-24T10:15:00.000Z",
+      "modifiedAt": "2025-04-24T10:15:00.000Z",
+      "tags": ["study", "education"],
+      "color": "#CCFF33"
+    },
+    {
+      "id": 9,
+      "title": "Event Planning",
+      "content": "Finalize venue and invitations for the company event.",
+      "priority": 3,
+      "createdAt": "2025-04-24T10:20:00.000Z",
+      "modifiedAt": "2025-04-24T10:20:00.000Z",
+      "tags": ["work", "event"],
+      "color": "#FF8822"
+    },
+    {
+      "id": 10,
+      "title": "Weekly Goals",
+      "content": "Set objectives for the week: exercise, finish reports, and spend time with family.",
+      "priority": 2,
+      "createdAt": "2025-04-24T10:25:00.000Z",
+      "modifiedAt": "2025-04-24T10:25:00.000Z",
+      "tags": ["personal", "goals"],
+      "color": "#6699FF"
     }
   ]
 }
