@@ -1,0 +1,44 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "Test Note",
+      "content": "This is a test note",
+      "priority": 2,
+      "createdAt": "2025-04-08T10:00:00.000Z",
+      "modifiedAt": "2025-04-08T10:00:00.000Z",
+      "tags": ["test", "example"],
+      "color": "#FF0000"
+    },
+    {
+      "id": 2,
+      "title": "Grocery List",
+      "content": "Buy milk, eggs, and bread from the store.",
+      "priority": 1,
+      "createdAt": "2025-04-09T08:30:00.000Z",
+      "modifiedAt": "2025-04-09T08:30:00.000Z",
+      "tags": ["shopping", "urgent"],
+      "color": "#00FF00"
+    },
+    {
+      "id": 3,
+      "title": "Meeting Notes",
+      "content": "Discuss project timeline and resource allocation with the team.",
+      "priority": 3,
+      "createdAt": "2025-04-10T14:15:00.000Z",
+      "modifiedAt": "2025-04-10T14:15:00.000Z",
+      "tags": ["work", "meeting"],
+      "color": "#0000FF"
+    },
+    {
+      "id": 4,
+      "title": "Personal Reminder",
+      "content": "Call mom at 6 PM today.",
+      "priority": 2,
+      "createdAt": "2025-04-11T09:00:00.000Z",
+      "modifiedAt": "2025-04-11T09:00:00.000Z",
+      "tags": ["personal"],
+      "color": "#FFFF00"
+    }
+  ]
+}
